@@ -6,7 +6,7 @@
 
 [![最棒的物联网 MQTT 开源团队期待您的加入](https://www.emqx.io/static/img/github_readme_cn_bg.png)](https://www.emqx.cn/careers)
 
-[English](./README.md) | 简体中文
+[English](./README.md) | 简体中文测试
 
 ---
 
