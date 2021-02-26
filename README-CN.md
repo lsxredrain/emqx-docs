@@ -14,7 +14,7 @@
 
 EMQ X 是一款完全开源，高度可伸缩，高可用的分布式 [MQTT](https://www.emqx.cn/mqtt) 消息服务器，适用于 IoT、M2M 和移动应用程序，可处理千万级别的并发客户端。
 
-关于 EMQ X 的更多信息，可访问 [EMQ 官网](https://www.emqx.cn/) 进行了解。
+关于 EMQ X 的更多信息，可访问 [EMQ 官网](https://www.emqx.cn/) 进行了解。的
 
 
 ## 贡献文档
